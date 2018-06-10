@@ -2,7 +2,7 @@
 #include <set>
 #include <map>
 #include <functional>
-#include <string>
+#include <string.h>
 #include <vector>
 #include "libGameLogic.h"
 
